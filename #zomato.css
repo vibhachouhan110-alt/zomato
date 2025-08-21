@@ -1,0 +1,155 @@
+section {
+    height: 500px;
+    width: 100%;
+    background-image:url(https://b.zmtcdn.com/data/pictures/4/19193074/98691c0d4079127ff4b453d3aa81506e.jpg);
+    background-size: cover;
+
+}
+#zomato{
+    display: flex;
+    list-style: none;
+    justify-content: flex-end;
+    gap: 40px;
+    font-size: 50px;
+    color: white;
+    margin-right:60px;
+    margin-top: 10px;
+    
+}
+
+lable{
+    height: 20px;
+    width: 50px;
+    font-size: 10px;
+    background-color: black;
+    color: white;
+
+}
+#a1{
+    display: flex;
+    justify-content: center;
+    
+
+}
+#images{
+display: flex;
+border: none;
+border-radius: 20px;
+gap: 50px;
+margin-left: 100px;
+
+}
+.img1:hover{
+transform: scale(1.1);    
+}
+.img2:hover{
+transform:scale(1.1);
+}
+.img3:hover{
+transform: scale(1.1);
+}
+.img4:hover{
+transform: scale(1.1);
+}
+.btn1{
+height:40px;
+width:90px;
+background-color: white;
+color:lightslategray;
+}
+
+.btn1:hover{
+background-color:lightpink;
+transform: scale(1.1);
+}
+.btn2{
+height:40px;width:90px;background-color: white;color: lightslategray;
+
+}
+.btn2:hover{
+background-color:lightpink;
+transform: scale(1.1);
+}
+.btn3{height:40px;
+width:90px;
+background-color: white;
+color: lightslategray;
+
+}
+.btn3:hover{
+background-color:lightpink;
+transform: scale(1.1);
+}
+.btn4{height:40px;
+width:90px;
+background-color: white;
+color: lightslategray;
+
+}
+
+.btn4:hover{
+background-color:lightpink;
+transform: scale(1.1);
+}
+.btn5{height:40px;
+width:200px;
+background-color: white;
+color: lightslategray
+
+}
+.btn5:hover{
+background-color:lightpink;
+transform: scale(1.1);
+}
+.btn6{height:40px;
+width:110px;
+background-color: white;
+color: lightslategray
+
+}
+.btn6:hover{
+background-color:lightpink;
+transform: scale(1.1);
+}
+.btn7{height:40px;
+width:90px;
+background-color: white;
+color: lightslategray
+}
+.btn7:hover{
+background-color:lightpink;
+transform: scale(1.1);     
+}
+button:hover{
+background-color: red;
+
+}
+
+#phone{
+border: none;    
+}
+#add{
+padding-left:800px;
+/* padding-bottom: 500px; */
+margin-top: -400px;
+}
+
+#z1{
+transition: all 2s ease-in 0.5s;
+background-color: transparent;
+
+}
+#z1:hover{
+transform: translate(800px);
+
+}
+#phone{
+transition: all 2s ease-in;
+}
+#phone:hover{
+/* transform: rotate(360deg); */
+}
+#b:hover{
+transform: scale(1.1);
+background-color:solid red;
+}
